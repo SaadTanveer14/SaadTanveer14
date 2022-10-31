@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaadTanveer14&show_icons=true&theme=radical" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaadTanveer14&show_icons=true&theme=merko" />
 
 ![giphy](https://user-images.githubusercontent.com/99664282/194729483-4cdb60eb-8d5a-43b0-95cf-4f2b45c90c0d.gif)
 
