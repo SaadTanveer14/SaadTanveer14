@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 [![An image of @saadtanveer14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadtanveer14)](https://holopin.io/@saadtanveer14)
-<!-- [![@saadtanveer's Holopin board](https://holopin.me/saadtanveer)](https://holopin.io/@saadtanveer)-->
+[![@saadtanveer's Holopin board](https://holopin.me/saadtanveer)](https://holopin.io/@saadtanveer)
