@@ -1,8 +1,8 @@
 
 :pakistan: :pakistan: :pakistan:
 
-![githubprofile](https://user-images.githubusercontent.com/99664282/194721177-7e7361f5-57f4-4b11-8ac1-377602578ed4.png)
-
+<!-- ![githubprofile](https://user-images.githubusercontent.com/99664282/194721177-7e7361f5-57f4-4b11-8ac1-377602578ed4.png)
+-->
 ### Hi there 👋
 
 Below are Apps that I have worked on and are live.
