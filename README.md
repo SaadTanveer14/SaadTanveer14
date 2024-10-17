@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
   <img align="left" src="pms_screenshots/mobile/dashboard_iphone.png" alt="Image 1" width="200"/>
-  <img align="middle" src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 2" width="200"/>
+  <p style="text-align: center"><img src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 2" width="200"/></p>
   <img align="right" src="pms_screenshots/mobile/drawer_iphone.png" alt="Image 3" width="200"/>
 </div>
 <div style="display: flex; justify-content: space-around;">
