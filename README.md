@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <p style="font-size: 24px; font-weight: bold;">This is large bold text</p>
 <p style="font-size: 18px; font-weight: bold;">This is medium bold text</p>
 <p style="font-size: 14px; font-weight: bold;">This is small bold text</p> -->
-md
-![Image 1](pms_screenshots/mobile/dashboard_iphone.png) ![Image 2](pms_screenshots/mobile/hospital_iphone.png) ![Image 3](pms_screenshots/mobile/drawer_iphone.png)
+
 
 
 <p style="font-size: 24px; font-weight: bold;">About Me</p>
@@ -54,16 +53,18 @@ md
 
 
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img align="left" src="pms_screenshots/mobile/dashboard_iphone.png" alt="Image 1" width="200"/>
-  <p style="text-align: center"><img src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 2" width="200"/></p>
-  <img align="right" src="pms_screenshots/mobile/drawer_iphone.png" alt="Image 3" width="200"/>
-</div>
-<div style="display: flex; justify-content: space-around;">
-  <img src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 1" width="200"/>
-  <img src="pms_screenshots/mobile/complaints_iphone.png" alt="Image 2" width="200"/>
-  <img src="pms_screenshots/mobile/report_iphone.png" alt="Image 3" width="200"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="pms_screenshots/mobile/dashboard_iphone.png" alt="Image 1" width="200"/></td>
+    <td align="center"><img src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 2" width="200"/></td>
+    <td align="center"><img src="pms_screenshots/mobile/drawer_iphone.png" alt="Image 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 4" width="200"/></td>
+    <td align="center"><img src="pms_screenshots/mobile/complaints_iphone.png" alt="Image 5" width="200"/></td>
+    <td align="center"><img src="pms_screenshots/mobile/report_iphone.png" alt="Image 6" width="200"/></td>
+  </tr>
+</table>
 
 
 <p style="font-size: 18px; font-weight: bold; margin-top: 40px;">MOC (File Management App)</p>
@@ -71,16 +72,18 @@ md
 <p style="font-size: 14px;">MOC is a file management app designed to simplify the process of managing and reviewing files digitally, mimicking the manual process of file handling. It allows users to replicate physical file actions such as adding remarks, rejecting files, and writing notes using a stylus on devices like the iPad. The app’s core feature is a custom canvas that enables users to write directly on files as if working with physical documents, making it ideal for pen-enabled devices. Users can also add additional remarks, upload attachments, and write on them, providing a comprehensive solution for file management.</p>
 
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="moc_screenshots/tab/moc_login.jpg" alt="Image 1" width="200"/>
-  <img src="moc_screenshots/tab/moc_dashboard.jpg" alt="Image 2" width="200"/>
-  <img src="moc_screenshots/tab/moc_edit_document.jpg" alt="Image 3" width="200"/>
-</div>
-<div style="display: flex; justify-content: space-around;">
-  <img src="moc_screenshots/tab/moc_canvas.jpg" alt="Image 1" width="200"/>
-  <img src="moc_screenshots/tab/moc_additional_note.jpg" alt="Image 2" width="200"/>
-  <img src="moc_screenshots/tab/moc_list.jpg" alt="Image 3" width="200"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="moc_screenshots/tab/moc_login.jpg" alt="Image 1" width="200"/></td>
+    <td align="center"><img src="moc_screenshots/tab/moc_dashboard.jpg" alt="Image 2" width="200"/></td>
+    <td align="center"><img src="moc_screenshots/tab/moc_edit_document.jpg" alt="Image 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="moc_screenshots/tab/moc_canvas.jpg" alt="Image 4" width="200"/></td>
+    <td align="center"><img src="moc_screenshots/tab/moc_additional_note.jpg" alt="Image 5" width="200"/></td>
+    <td align="center"><img src="moc_screenshots/tab/moc_list.jpg" alt="Image 6" width="200"/></td>
+  </tr>
+</table>
 
 
 
@@ -88,16 +91,16 @@ md
 
 <p style="font-size: 14px;">The app allows users to select their favorite teams and players, delivering tailored match schedules, news, and updates about those teams and players. This adds a layer of customization that makes the app a more immersive experience for football fans. In addition to personalized sports news, the app functions as a clock or timekeeping tool, possibly displaying real-time match start times or countdowns, and it can stay active as an always-on display (likely with low-power features like dark mode or ambient mode)</p>
 
-
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="smart_clock_screenshots/sc_dashboard.png" alt="Image 1" width="200"/>
-  <img src="smart_clock_screenshots/sc_matchs.png" alt="Image 2" width="200"/>
-  <img src="smart_clock_screenshots/sc_details.png" alt="Image 3" width="200"/>
-</div>
-<div style="display: flex; justify-content: space-around;">
-  <img src="smart_clock_screenshots/ipad.png" alt="Image 1" width="400"/>
-
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="smart_clock_screenshots/sc_dashboard.png" alt="Image 1" width="200"/></td>
+    <td align="center"><img src="smart_clock_screenshots/sc_matchs.png" alt="Image 2" width="200"/></td>
+    <td align="center"><img src="smart_clock_screenshots/sc_details.png" alt="Image 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="smart_clock_screenshots/ipad.png" alt="Image 4" width="400"/></td>
+  </tr>
+</table>
 
 
 
@@ -105,17 +108,18 @@ md
 
 <p style="font-size: 14px;">The Balochistan Health Card Program (BHCP) is designed to assist registered users in finding nearby healthcare centers within the province. Using Google Maps integration, users can locate and navigate to healthcare centers with a simple tap, and view a list of treatments offered at each facility. The app also displays the user's remaining balance for treatments covered under the program and provides updates about the health card initiative. Additionally, users can access contact information and file complaints regarding any issues they face while availing services.</p>
 
-
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="bhcp_screenshots/bhcp_splash.png" alt="Image 1" width="200"/>
-  <img src="bhcp_screenshots/bhcp_login.png" alt="Image 2" width="200"/>
-  <img src="bhcp_screenshots/bhcp_home.png" alt="Image 3" width="200"/>
-</div>
-<div style="display: flex; justify-content: space-around;">
-  <img src="bhcp_screenshots/bhcp_complaits.png" alt="Image 1" width="200"/>
-  <img src="bhcp_screenshots/bhcp_map.png" alt="Image 2" width="200"/>
-  <img src="bhcp_screenshots/bhcp_balance.png" alt="Image 3" width="200"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="bhcp_screenshots/bhcp_splash.png" alt="Image 1" width="200"/></td>
+    <td align="center"><img src="bhcp_screenshots/bhcp_login.png" alt="Image 2" width="200"/></td>
+    <td align="center"><img src="bhcp_screenshots/bhcp_home.png" alt="Image 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="bhcp_screenshots/bhcp_complaits.png" alt="Image 4" width="200"/></td>
+    <td align="center"><img src="bhcp_screenshots/bhcp_map.png" alt="Image 5" width="200"/></td>
+    <td align="center"><img src="bhcp_screenshots/bhcp_balance.png" alt="Image 6" width="200"/></td>
+  </tr>
+</table>
 
 
 
