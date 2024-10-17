@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
   <img src="pms_screenshots/mobile/dashboard_iphone.png" alt="Image 1" width="200"/>
+  |---------------------------------------------------------|
   <img src="pms_screenshots/mobile/hospital_iphone.png" alt="Image 2" width="200"/>
+  |---------------------------------------------------------|
   <img src="pms_screenshots/mobile/drawer_iphone.png" alt="Image 3" width="200"/>
 </div>
 <div style="display: flex; justify-content: space-around;">
