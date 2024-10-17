@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <p style="font-size: 24px; font-weight: bold;">This is large bold text</p>
 <p style="font-size: 18px; font-weight: bold;">This is medium bold text</p>
 <p style="font-size: 14px; font-weight: bold;">This is small bold text</p> -->
+md
+![Image 1](pms_screenshots/mobile/dashboard_iphone.png) ![Image 2](pms_screenshots/mobile/hospital_iphone.png) ![Image 3](pms_screenshots/mobile/drawer_iphone.png)
+
 
 <p style="font-size: 24px; font-weight: bold;">About Me</p>
 
@@ -47,6 +50,8 @@ Here are some ideas to get you started:
 <p style="font-size: 18px; font-weight: bold;">Patient Management System (PMS)</p>
 
 <p style="font-size: 14px;">The Patient Management System (PMS) is designed to ensure treatment transparency and track doctors' visits and attendance in multiple hospitals. The system allows doctors to mark their attendance within a defined radius, ensuring they are physically present at the hospital. It also facilitates doctors in providing patient feedback, capturing photos, recording audio from patients, and submitting their own feedback about the treatment. PMS operates both online and offline, enabling doctors to work in areas with limited internet connectivity, syncing data once the connection is restored. The app also offers reporting tools to track doctor performance, attendance, and leave management.</p>
+
+
 
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
