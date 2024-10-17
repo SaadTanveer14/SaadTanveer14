@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
-<p style="font-size: 24px; font-weight: bold;">About Me</p>
+# About Me
 
 <p style="font-size: 14px;">I am a Full Stack Mobile Application Developer specializing in Flutter, with extensive experience in building dynamic and feature-rich mobile apps for both iOS and Android. My expertise spans platform-specific functionalities, ensuring seamless performance on each device. Alongside development, I also bring creativity into my projects through design, delivering visually appealing and user-friendly apps.</p>
 
@@ -42,12 +42,10 @@ Here are some ideas to get you started:
 
 
 
-<p style="font-size: 24px; font-weight: bold;">Projects</p>
+# Projects
 
 
-
-<p style="font-size: 18px; font-weight: bold;">Patient Management System (PMS)</p>
-
+## Patient Management System (PMS)
 <p style="font-size: 14px;">The Patient Management System (PMS) is designed to ensure treatment transparency and track doctors' visits and attendance in multiple hospitals. The system allows doctors to mark their attendance within a defined radius, ensuring they are physically present at the hospital. It also facilitates doctors in providing patient feedback, capturing photos, recording audio from patients, and submitting their own feedback about the treatment. PMS operates both online and offline, enabling doctors to work in areas with limited internet connectivity, syncing data once the connection is restored. The app also offers reporting tools to track doctor performance, attendance, and leave management.</p>
 
 
@@ -67,7 +65,7 @@ Here are some ideas to get you started:
 </table>
 
 
-<p style="font-size: 18px; font-weight: bold; margin-top: 40px;">MOC (File Management App)</p>
+## MOC (File Management App)
 
 <p style="font-size: 14px;">MOC is a file management app designed to simplify the process of managing and reviewing files digitally, mimicking the manual process of file handling. It allows users to replicate physical file actions such as adding remarks, rejecting files, and writing notes using a stylus on devices like the iPad. The app’s core feature is a custom canvas that enables users to write directly on files as if working with physical documents, making it ideal for pen-enabled devices. Users can also add additional remarks, upload attachments, and write on them, providing a comprehensive solution for file management.</p>
 
@@ -87,7 +85,7 @@ Here are some ideas to get you started:
 
 
 
-<p style="font-size: 18px; font-weight: bold; margin-top: 40px;">Smart Clock</p>
+## Smart Clock
 
 <p style="font-size: 14px;">The app allows users to select their favorite teams and players, delivering tailored match schedules, news, and updates about those teams and players. This adds a layer of customization that makes the app a more immersive experience for football fans. In addition to personalized sports news, the app functions as a clock or timekeeping tool, possibly displaying real-time match start times or countdowns, and it can stay active as an always-on display (likely with low-power features like dark mode or ambient mode)</p>
 
@@ -104,7 +102,7 @@ Here are some ideas to get you started:
 
 
 
-<p style="font-size: 18px; font-weight: bold; margin-top: 40px;">Balochistan Health Card Program App(BHCP)</p>
+## Balochistan Health Card Program App(BHCP)
 
 <p style="font-size: 14px;">The Balochistan Health Card Program (BHCP) is designed to assist registered users in finding nearby healthcare centers within the province. Using Google Maps integration, users can locate and navigate to healthcare centers with a simple tap, and view a list of treatments offered at each facility. The app also displays the user's remaining balance for treatments covered under the program and provides updates about the health card initiative. Additionally, users can access contact information and file complaints regarding any issues they face while availing services.</p>
 
